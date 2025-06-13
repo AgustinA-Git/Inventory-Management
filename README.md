@@ -5,15 +5,15 @@ This project applies ABC-XYZ analysis to a dataset of 40 SKUs to intelligently o
 
 Key features:
 
-🔍 ABC analysis: Classifies SKUs based on total revenue impact
+- ABC analysis: Classifies SKUs based on total revenue impact
 
-📈 XYZ analysis: Measures demand volatility using CV (σ/μ)
+- XYZ analysis: Measures demand volatility using CV (σ/μ)
 
-📊 Service level mapping: Assigns safety stock targets using Z-scores
+- Service level mapping: Assigns safety stock targets using Z-scores
 
-🛠️ Policy simulation: Models different replenishment strategies by class
+- Policy simulation: Models different replenishment strategies by class
 
-📉 KPI tracking: Evaluates improvements in stockout rate, inventory turnover, and total cost
+- KPI tracking: Evaluates improvements in stockout rate, inventory turnover, and total cost
 
 Ideal for supply chain analysts, operations researchers, and inventory managers looking to apply structured logic to complex SKU portfolios.
 
