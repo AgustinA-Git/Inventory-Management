@@ -1,4 +1,4 @@
-# Inventory-Management
+# ABC XYZ Inventory-Management
 Inventory Optimization with ABC-XYZ Analysis for 40 SKUs
 
 This project applies ABC-XYZ analysis to a dataset of 40 SKUs to intelligently optimize inventory levels, reduce stockouts, and lower holding costs. Using the ABC classification, we rank items by revenue contribution (Pareto 80/20 rule), while the XYZ classification assesses demand predictability via the coefficient of variation (CV). Combined, this framework segments SKUs into 9 actionable categories (e.g., AX, BY, CZ), each with tailored stocking policies.
